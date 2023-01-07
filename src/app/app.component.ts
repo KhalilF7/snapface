@@ -25,14 +25,14 @@ export class AppComponent implements OnInit{
       'Un endroit magnifique pour les randonnees.',
       new Date(),
       0,
-      'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/0/08/Three_Rock_Mountain_Southern_Tor.jpg',
     );
     this.myLastSnap = new FaceSnap(
-      'Archibald',
-      'Mon meilleur ami depuis tout petit !',
+      'Un bon repas',
+      'Mmmh que c\'est bon !',
       new Date(),
       0,
-      'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
+      'https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg',
     );
   }
 }
